@@ -5364,6 +5364,8 @@ unsigned short GetPC(void)
 
 int performDivQ(short divisor)
 {
+	return 1;
+
 	int divOkay = 1;	//true
 	if (divisor != 0)
 	{
