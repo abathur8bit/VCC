@@ -17,5 +17,3 @@ We will continue to try to make VCC the best Color Computer Emulator available.
 Thank You for using VCC
 
 The VCC Developement Team.
-
-Lee test
